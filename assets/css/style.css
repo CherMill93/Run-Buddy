@@ -12,6 +12,7 @@ body{
     color: #39a8b2;
     font-family: Arial, Helvetica, sans-serif;
 }
+
 /* apply styles to <header>*/
 header{
     padding: 20px 35px;
@@ -39,6 +40,28 @@ header nav ul li a{
     margin: 0 30px;
     font-weight: lighter;
     font-size: 22px;
+}
+section {
+    padding: 60px;
+}
+/* Hero Style start */
+.hero {
+    background-image: url("images/hero-bg.jpg");
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+/* Hero style end */
+.hero-form {
+    background-color: #fce138;
+    color: #024e76;
+    padding: 20px;
+    width: 500px;
+    border: solid 3px #024e76;
+    position: absolute;
+    bottom: 120px;
+    right: 140px;
 }
 
 footer {
