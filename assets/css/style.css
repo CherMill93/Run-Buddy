@@ -128,7 +128,6 @@ section {
 }
 /* page consolidation code end */
 /* What...Do*/
-.intro{}
 
 .intro p{
     line-height: 1.7;
@@ -172,8 +171,7 @@ section {
 .flex-row {
     display: flex;
 }
-.trainers {
-  }
+
 .trainer {
     width: 900px;
     margin: 0 auto 30px auto;
